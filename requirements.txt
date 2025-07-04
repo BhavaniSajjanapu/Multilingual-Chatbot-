@@ -1,0 +1,6 @@
+transformers
+tensorflow-macos
+tf-keras
+googletrans==4.0.0-rc1\n
+langdetect
+flask
